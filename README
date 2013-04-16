@@ -1,0 +1,8 @@
+This example needs Soledad:
+
+    git clone -b develop git://github.com/andrejb/soledad.git
+    cd soledad; python setup.py install
+
+Run it with:
+
+    python example.py
